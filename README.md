@@ -1,1 +1,1 @@
-Link to Site: 
+Link to Site: https://hoejhus.github.io/GameOfLife/
