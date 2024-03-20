@@ -69,11 +69,3 @@ button:hover {
 .reading {
   background-color: #f88;
 }
-
-/* Optional: Add a container to center the game controls for better layout */
-.controls {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 20px;
-}
