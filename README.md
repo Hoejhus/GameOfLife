@@ -17,6 +17,7 @@ This project focuses on:
 - Interactive grid — click to toggle cells.
 - Controls: **Start/Pause**, **Step**, **Random**, **Clear**.
 - Pure **HTML/CSS/JavaScript** (no frameworks).
+- Link to site: https://hoejhus.github.io/GameOfLife/
 
 ## Quick Start
     git clone https://github.com/Hoejhus/GameOfLife.git
